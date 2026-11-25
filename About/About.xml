@@ -6,9 +6,6 @@
 	<url>https://steamcommunity.com/profiles/76561198019114858/myworkshopfiles/?appid=294100</url>
 	<modVersion>1.1.8</modVersion>
 	<supportedVersions>
-		<li>1.4</li>
-		<li>1.5</li>
-		<li>1.6</li>
 		<li>1.7</li>
 	</supportedVersions>
 	<packageId>wvc.sergkart.biotech.MoreMechanoidsWorkModes</packageId>
@@ -41,20 +38,6 @@ Work if safe - Mechanoids will work, but only as long as there are no enemies on
 			<displayName>Biotech</displayName>
 		</li>
 	</modDependencies>
-	<modDependenciesByVersion>
-		<v1.6>
-			<li>
-				<packageId>brrainz.harmony</packageId>
-				<displayName>Harmony</displayName>
-				<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
-				<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2009463077</steamWorkshopUrl>
-			</li>
-			<li>
-				<packageId>Ludeon.RimWorld.Biotech</packageId>
-				<displayName>Biotech</displayName>
-			</li>
-		</v1.6>
-	</modDependenciesByVersion>
 	<loadAfter>
 		<li>Ludeon.RimWorld</li>
 		<li>Ludeon.RimWorld.Royalty</li>
